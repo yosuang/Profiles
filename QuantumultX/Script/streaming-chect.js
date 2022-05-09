@@ -4,7 +4,7 @@
  * @author：https://github.com/KOP-XIAO
  */
 
- const BASE_URL = 'https://www.netflix.com/title/';
+const BASE_URL = 'https://www.netflix.com/title/';
 const BASE_URL_YTB = "https://www.youtube.com/premium";
 const BASE_URL_DISNEY = 'https://www.disneyplus.com';
 const BASE_URL_Dazn = "https://startup.core.indazn.com/misl/v5/Startup";
