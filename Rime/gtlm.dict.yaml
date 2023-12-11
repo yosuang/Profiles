@@ -1,0 +1,14 @@
+# Rime dictionary
+# encoding: utf-8
+#
+#
+# https://github.com/iDvel/rime-ice
+#
+#
+---
+name: gtlm
+version: "2023-12-11"
+sort: by_weight
+...
+两新	liang xing
+国泰利民	guo tai li min
