@@ -1,13 +1,8 @@
-customization:
-  distribution_code_name: Weasel
-  distribution_version: 0.15.0.0
-  generator: "Rime::SwitcherSettings"
-  modified_time: "Sun Dec 10 22:31:46 2023"
-  rime_version: 1.8.5
 patch:
   schema_list:
     - {schema: rime_ice}
-  "switcher/hotkeys":
-    - "Control+grave"
+  switcher:
+    hotkeys:
+      - Control+grave
   menu:
     page_size: 4
